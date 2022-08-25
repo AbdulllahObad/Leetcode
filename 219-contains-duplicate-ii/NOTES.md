@@ -1,7 +1,7 @@
 The Idea : If duplicate element is present at distance less  than or  equal to k, return true...
 How to Solve This Problem ? 😕
 We Are Going To Bild a HshSet
-We Will  AddElements In It Until We Reach  The Size of K+1 Why ?
+We Will  Add Elements In It Until We Reach  The Size of K+1 Why ?
 We Because  We Know Tha IF Ther Are Duplicate Number Within The boundry Of k
 The abs Diff Will be less Than K.  EX 😐?  OK 😊
 * 0  1  2  3
