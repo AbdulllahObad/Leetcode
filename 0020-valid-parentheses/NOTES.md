@@ -15,6 +15,7 @@ If the character is an open bracket, I push it onto the stack.
 If it's closing bracket, I check if the stack is empty or if the top of the stack matches the    expected open bracket. If no, the string is not valid.
 additionally, if the character is neither an open nor a closing bracket, the string is also not valid.
 Finally, after processing the entire string, I check if the stack is empty. If it's , the string is valid, otherwise, it's not.
+
 **The time and space complexity of your solution**
 ​
 The time complexity is O(n), where n is the length of the input string. We iterate through the string once, and each operation inside the loop takes constant time.
