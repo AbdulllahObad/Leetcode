@@ -1,9 +1,10 @@
-open bracket**The approach to sove this problem**
+**The approach to sove this problem**
 The problem is asking us to determine if a given string of brackets is valid. We need to ensue that each open bracket has a corresponding closing bracket of the same type, and they are in the correct order.
 I've chosen to use a stack data strucutre to keep track of the open brackets. As we iterate through the string:
 * We push open brackets onto the stack.
 * We pop them off when we encounter the coresponding closing brackets.
 At the end, if the stack is empty, that means all brackets were closed correctly, and the string is valide.
+
 **The strcutre of the code **
 ​
 I have the function called IsValide that takes a string s as input. Inside the function iI initialize an empty stack and create a mapping of closing brackets to their coresponding open brackets.
