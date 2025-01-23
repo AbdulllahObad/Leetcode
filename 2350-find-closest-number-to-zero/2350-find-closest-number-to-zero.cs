@@ -6,12 +6,16 @@ public class Solution {
             // If the current num is less than the closet to zero
             if(Math.Abs(num) < Math.Abs(closest)){
                 closest = num; 
+            }else{
+                 if(Math.Abs(num) == Math.Abs(closest) &&
+                 num >0){
+                    closest = num;
+
+                 }
+
             }
         }
-         // check if the smallest abs value exist in positive
-          if( closest < 0 && nums.Contains(Math.Abs(closest))){
-            closest =  Math.Abs(closest);
-          }
+        
         return closest;
   
 
