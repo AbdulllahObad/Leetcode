@@ -1,16 +1,24 @@
 public class Solution {
     public int FindClosestNumber(int[] nums) {
-
-        int clst_to_zero =  nums[0];
-        foreach(int num in nums){
-            if (Math.Abs(num) < Math.Abs(clst_to_zero)) {
-                clst_to_zero = num;
+        int closest = nums[0];
+        int currentValue = 0;
+        for (int i = 0; i < nums.Count(); i++)
+        {
+            currentValue = Math.Abs(nums[i]);
+            if (currentValue == 0)
+            {
+                closest = currentValue;
             }
-            else if (Math.Abs(num) == Math.Abs(clst_to_zero) && num > clst_to_zero ) {
-                clst_to_zero = num;
+            else if (currentValue < Math.Abs(closest))
+            {
+                closest = nums[i];
             }
-        } 
+        }
 
-        return clst_to_zero;
+        if(closest < 0 && nums.Contains(Math.Abs(closest))){
+            return Math.Abs(closest);
+        } else{
+            return closest;
+        }
     }
 }
