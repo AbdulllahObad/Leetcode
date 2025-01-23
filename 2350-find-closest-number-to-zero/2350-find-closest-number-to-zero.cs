@@ -10,10 +10,10 @@ public class Solution {
         }
          // check if the smallest abs value exist in positive
           if( closest < 0 && nums.Contains(Math.Abs(closest))){
-            return Math.Abs(closest);
-          }else{
-               return closest;
+            closest =  Math.Abs(closest);
           }
+        return closest;
+  
 
     }
 }
