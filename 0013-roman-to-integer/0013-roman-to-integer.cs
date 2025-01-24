@@ -12,20 +12,13 @@ public class Solution {
         };
         int res = 0;
         // loop through all the char in s
-        for(int i =0; i < s.Length; i++){
+        for(int i =0; i<s.Length; i++){
             int currentVlaue = romanToInt[s[i]];
-            // if the nex char in s dose not exist 
-            if(i+1 >= s.Length){
-                res += currentVlaue;
-                return res;
-            }
-            // if the current char is greater than the next one
-            if(currentVlaue >= romanToInt[s[i+1]]){
-                res += currentVlaue;
+            if(i+1 < s.Length &&  currentVlaue < romanToInt[s[i+1]]){
+                res += romanToInt[s[i+1]] - currentVlaue;
+                i += 1;
             }else{
-                // substract the value of the second char - currValue and skip one char
-                 res += romanToInt[s[i+1]] - currentVlaue;
-                 i += 1; // skip the second char
+                res += currentVlaue;
             }
         }
         return res;
