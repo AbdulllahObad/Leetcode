@@ -1,6 +1,5 @@
 public class Solution {
     public bool IsSubsequence(string s, string t) {
-
         int count = 0;
         int index_found =0; // track the starting index in t
           for (int i=0; i<s.Length; i++){
