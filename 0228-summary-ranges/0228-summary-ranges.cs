@@ -6,7 +6,7 @@ public class Solution {
         int start = nums[0];
         for(int i=0;i<nums.Length;i++){
             int current = nums[i];
-            // if the second num doesn't exisit or it's NOT consecutive
+            // Check if the next num is the last or it's NOT consecutive
             if(i+1 >= nums.Length || nums[i+1] -1 != current){
                 if(start != current){
                     res.Add($"{start}->{current}");             
