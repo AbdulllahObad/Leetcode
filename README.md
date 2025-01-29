@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbdulllahObad/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/AbdulllahObad/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AbdulllahObad/Leetcode/tree/master/0228-summary-ranges) |
 | [2350-find-closest-number-to-zero](https://github.com/AbdulllahObad/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbdulllahObad/Leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/AbdulllahObad/Leetcode/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/AbdulllahObad/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
@@ -40,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AbdulllahObad/Leetcode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AbdulllahObad/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
