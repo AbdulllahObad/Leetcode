@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbdulllahObad/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbdulllahObad/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/AbdulllahObad/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AbdulllahObad/Leetcode/tree/master/0228-summary-ranges) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbdulllahObad/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AbdulllahObad/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/AbdulllahObad/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbdulllahObad/Leetcode/tree/master/0242-valid-anagram) |
