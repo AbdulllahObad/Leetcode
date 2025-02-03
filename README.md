@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AbdulllahObad/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AbdulllahObad/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AbdulllahObad/Leetcode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulllahObad/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbdulllahObad/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AbdulllahObad/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/AbdulllahObad/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AbdulllahObad/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbdulllahObad/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AbdulllahObad/Leetcode/tree/master/0392-is-subsequence) |
