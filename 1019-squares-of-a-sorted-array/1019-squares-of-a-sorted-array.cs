@@ -7,6 +7,10 @@ public class Solution {
         // }
         int[] numsArray = nums.Select(n => n*n).ToArray();
         Array.Sort(numsArray);
+ 
+
+
+
         return numsArray;
 
     }
