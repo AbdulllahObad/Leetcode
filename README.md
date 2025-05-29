@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/AbdulllahObad/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AbdulllahObad/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulllahObad/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1603-running-sum-of-1d-array](https://github.com/AbdulllahObad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/AbdulllahObad/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/AbdulllahObad/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AbdulllahObad/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/AbdulllahObad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Simulation
 |  |
 | ------- |
