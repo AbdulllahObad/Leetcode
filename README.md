@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AbdulllahObad/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/AbdulllahObad/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/AbdulllahObad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/AbdulllahObad/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/AbdulllahObad/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/AbdulllahObad/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/AbdulllahObad/Leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -45,10 +46,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/AbdulllahObad/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbdulllahObad/Leetcode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/AbdulllahObad/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1635-number-of-good-pairs](https://github.com/AbdulllahObad/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbdulllahObad/Leetcode/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/AbdulllahObad/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/AbdulllahObad/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/AbdulllahObad/Leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
