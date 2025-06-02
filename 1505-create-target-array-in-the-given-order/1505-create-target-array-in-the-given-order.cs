@@ -1,17 +1,9 @@
 public class Solution {
     public int[] CreateTargetArray(int[] nums, int[] index) {
 
-        List<int> res = Enumerable.Repeat(-1, nums.Length).ToList();
+        List<int> res = new List<int>();
         for(int i=0; i<nums.Length; i++){
-               int x = index[i]; // At this index x
-               int y = nums[i]; // Insert this y
-               if(res[x] != -1){
-                    // try to insert to an already filled cell.
-                    res.Insert(x,y);
-                    res.RemoveAt(res.Count-1);
-               }else{
-                    res[i] = y;
-               }
+            res.Insert(index[i], nums[i]); // Automatically shifts as needed
         }
         return res.ToArray();      
     }
