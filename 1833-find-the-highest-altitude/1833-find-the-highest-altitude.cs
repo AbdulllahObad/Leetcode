@@ -3,9 +3,9 @@ public class Solution {
 
         int currentAltitude = 0;
         int maxAltitude = 0;
-        foreach(var chain in gain){
-             maxAltitude =  Math.Max(maxAltitude, chain + currentAltitude);
-             currentAltitude = chain + currentAltitude;
+        foreach(var change in gain){
+             maxAltitude =  Math.Max(maxAltitude, change + currentAltitude);
+             currentAltitude = change + currentAltitude;
         }
         return maxAltitude;
         
