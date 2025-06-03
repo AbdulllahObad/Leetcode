@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/AbdulllahObad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AbdulllahObad/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/AbdulllahObad/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/AbdulllahObad/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2058-concatenation-of-array](https://github.com/AbdulllahObad/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/AbdulllahObad/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/AbdulllahObad/Leetcode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/AbdulllahObad/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/AbdulllahObad/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1899-count-items-matching-a-rule](https://github.com/AbdulllahObad/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbdulllahObad/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
