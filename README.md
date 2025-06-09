@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/AbdulllahObad/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0861-flipping-an-image](https://github.com/AbdulllahObad/Leetcode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulllahObad/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AbdulllahObad/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulllahObad/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AbdulllahObad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AbdulllahObad/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbdulllahObad/Leetcode/tree/master/0013-roman-to-integer) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AbdulllahObad/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/AbdulllahObad/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/AbdulllahObad/Leetcode/tree/master/0861-flipping-an-image) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AbdulllahObad/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AbdulllahObad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/AbdulllahObad/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Matrix
