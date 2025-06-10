@@ -8,17 +8,33 @@ public class Solution {
     public int FindNumbers(int[] nums) {
         int count = 0;
         foreach(var num in nums){
-            if(even(num)){
-                count++;
-            }
+            // if(even(num)){
+            //     count++;
+            // }
+            // 2. Count digit 
+            count += even_digit(num);
         }
         return count;      
+    }
+
+    public int even_digit(int num){
+        int count =0;
+        while(num>0){
+            num = num/10;
+            count++;
+        }
+
+    return count%2 ==0? 1: 0;
     }
 
     public bool even(int num){
         string num_str = num.ToString();
         return (num_str).Count()%2 == 0;
     }
+
+
+
+
 }
 
         // 1. Loop over the array nums
